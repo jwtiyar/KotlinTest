@@ -5,7 +5,7 @@ fun main(args :Array<String>){
     var Temen:Int= readLine()!!.toInt() // لێرە پێی ئەڵیی ئەنجامەکەم ئنتیجەرە بۆیە ئەنجامەکە لە سترینگەوە ئەکەین بە ئینتیجەر
     print("Nawy Besheket bnwse:")
     var bashy:String?
-    bashy= readLine()
+    bashy= readLine()!!
 
     println("****** Encamekan ******")
     println("naw:"+Naw)
